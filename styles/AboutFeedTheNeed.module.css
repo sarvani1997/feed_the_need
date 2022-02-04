@@ -1,0 +1,10 @@
+.about {
+  height: 100vh;
+}
+.about h4 {
+  /*text-align: center;*/
+}
+.about p {
+  font-size: 1.3rem;
+  text-align: justify;
+}
